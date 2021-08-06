@@ -7,6 +7,6 @@ node {
     }
 
     if(env.TAG_NAME == 'release-1.0'){
-        println('release tag is being build')
+        println('release 1 tag is being build')
     }
 }
